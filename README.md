@@ -76,27 +76,6 @@ NLP-powered platform to detect hate and racist tweets using sentiment analysis w
 
 ---
 
-## 💼 Experience
-
-### Data Analytics Intern — Vodafone Qatar
-**Finance & Reporting Team · Jun–Sept 2023**
-
-- 📊 Built a weekly KPI dashboard (churn, usage, activations) in Tableau
-- 📈 Developed ARIMA/SARIMA time series forecasting for postpaid activation trends
-- 🎤 Presented Gross Activations analysis with demographic segmentation to stakeholders
-
-`Tableau` `Python` `Oracle SQL` `Alteryx`
-
----
-
-### Data Science Intern — _VOIS India
-**DAIS Team · Jan–May 2024**
-
-- 📋 Built a Power BI dashboard showcasing revenue & activation KPIs for Nov–Dec 2023
-- ⚡ Designed a Power Automate flow: PowerApps form → SharePoint → automated user email
-- 🎫 Built a security ticket management app in Power Apps with an embedded Power BI report
-
-`Power BI` `Power Apps` `Power Automate` `Microsoft 365`
 
 ---
 
